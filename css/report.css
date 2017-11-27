@@ -1,0 +1,26 @@
+.personReport{
+	width: 600px;
+	height: 0px auto;
+	background-color: lightgray;
+	color: blue;
+	margin: 0px auto;
+	padding: 5px;
+}
+h2{
+	text-align: center;
+	color: white;
+	width: 610px;
+	margin: 0px auto;
+	height: 40px;
+	background-color: blue;
+}
+body{
+background: gray;
+padding: 0px;
+	
+}
+table{
+margin: 0px auto;
+padding: 0px;
+	
+}
