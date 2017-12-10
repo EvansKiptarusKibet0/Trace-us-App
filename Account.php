@@ -83,6 +83,7 @@
 
     </section>
         <?php include 'footer.php'?>
+    <p>footer page</p>
 
 </body>
 </html>
